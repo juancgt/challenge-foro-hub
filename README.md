@@ -1,6 +1,6 @@
 # ForoHub API
 
-¡Hola! Bienvenidos y bienvenidas a un nuevo desafío. En esta oportunidad, vamos a poner en práctica los conocimientos adquiridos en Java y Spring Boot.
+
 
 ## Descripción
 
