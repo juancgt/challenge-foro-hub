@@ -92,6 +92,13 @@ Asegúrate de tener instalados los siguientes programas:
    ```sql
    CREATE DATABASE forohub;
 
+## Imagenes
+
+![2](https://github.com/user-attachments/assets/317fe96d-9f4a-49f8-885c-ba9bf9804047)
+![3](https://github.com/user-attachments/assets/2e5408d3-cd44-4fe6-96ab-21cbc233a745)
+![1](https://github.com/user-attachments/assets/a0d07259-d13b-4ca1-bcd6-aefe2e57f688)
+
+
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
 
